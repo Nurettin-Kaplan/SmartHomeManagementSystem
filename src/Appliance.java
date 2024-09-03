@@ -19,4 +19,5 @@ public class Appliance implements Controllable{
     public boolean isOn() {
         return this.status;
     }
+
 }
